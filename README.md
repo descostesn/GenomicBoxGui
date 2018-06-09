@@ -32,7 +32,7 @@ making sense of the data), but nowadays, access to these bioinformatics
 resources is more common and affordable. The new bottleneck is the evolution of
  software inaccordance with technological advances and users needs.*
 
-Several tools aimed at providing solutions to accomplish standard 
+Several tools aim at providing solutions to accomplish standard 
 bioinformatical analysis with graphical interfaces (EaSeq, QuickNGS, Galaxy, 
 etc). However, I noticed that biologists who are not familiar with 
 computational tools or newly switching to genome-wide analysis face conceptual 
@@ -40,7 +40,7 @@ challenges that they are not wiling to spend a large amount of time on to
 apprehend the different parameters proposed by the majority of tools. Moreover,
 regarding the large success of IGV among biologists, I decided to provide the 
 software in Java hoping to facilitate the adoption of GenomicBox by the 
-community in the same manner. The interfaces aim to be *minimalistic* in an 
+community in the same manner. The interfaces aim at being *minimalistic* in an 
 effort of simplification.
 
 This interface aims at providing **an extremely minimalistic** number of 
@@ -58,7 +58,9 @@ analysis.
 ## Structure
 
 This documentation will expand with the project. Below is a screenshot of the 
-interface and a general overview of the different analysis provided by the GUI:
+interface for DE analysis (the tables are completed automatically upon file 
+selection) and a general overview of the different analysis provided by the 
+GUI:
 
 ![Example of interface to perform Differential Expression Analysis](./images/interface.png)
 
