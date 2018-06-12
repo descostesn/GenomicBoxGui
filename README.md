@@ -14,7 +14,7 @@ RNA-seq data.
 ## Manifesto
 
 Research in genomics often needs standard analysis to enable a first 
-investigation of the data. This often involves very often meta-gene profiling 
+investigation of the data. This involves very often meta-gene profiling 
 with ChIP-seq, rough peak detection, or differential expression on annotated 
 genes with RNA-seq. Moreover, obtaining bigwigs to visualize the results of an 
 experiment is an absolute priority for the biologist. Waiting for the 
